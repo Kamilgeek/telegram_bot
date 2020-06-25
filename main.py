@@ -24,3 +24,5 @@ def sticker_id(message):
 bot.polling()
 def acc(a):
     pass
+def accm(a):
+    pass
